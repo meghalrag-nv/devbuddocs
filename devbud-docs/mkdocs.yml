@@ -1,0 +1,9 @@
+site_name: Devbud Documentation
+nav:
+    - Home: index.md
+    - User Guide: userguide.md
+    - Reference: reference.md
+    - About: about.md
+
+theme: 
+    name: readthedocs
