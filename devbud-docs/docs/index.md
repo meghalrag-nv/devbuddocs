@@ -1,4 +1,4 @@
-# Welcome to Devbud
+# Welcome to Developer buddy
 
 ## Project layout
 
